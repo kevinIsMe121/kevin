@@ -168,6 +168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   redObj: {fileID: 4547917077726501663, guid: 938ad05755e3d504f8bf2e8beb7b449a, type: 3}
+  blueObj: {fileID: 127708705132914918, guid: f31e4d59fd489554cbd921839d1eb2da, type: 3}
 --- !u!1 &516932471
 GameObject:
   m_ObjectHideFlags: 0
@@ -212,7 +213,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   studentNumber: 13729621
-  bandReached: 2
+  bandReached: 3
 --- !u!1 &681248591
 GameObject:
   m_ObjectHideFlags: 0
